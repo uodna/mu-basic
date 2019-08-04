@@ -15,4 +15,4 @@ service:
     - /*
   pipeline:
     source:
-      repo: uodna/mu-examples-basic
+      repo: uodna/mu-basic
