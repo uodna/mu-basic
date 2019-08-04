@@ -15,4 +15,4 @@ service:
     - /*
   pipeline:
     source:
-      repo: cplee/aftp-mu
+      repo: uodna/mu-examples-basic
